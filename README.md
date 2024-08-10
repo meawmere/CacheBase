@@ -22,7 +22,7 @@ public class Main implements IErrorsListener {
 }
 ```
 
-How to install?
+# How to install?
 
 Go to the releases
 
